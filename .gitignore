@@ -1,0 +1,6 @@
+node_modules/
+key.json
+.idea/
+
+*.js
+*.js.map
