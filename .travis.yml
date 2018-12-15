@@ -1,0 +1,8 @@
+language: node_js
+
+before_script:
+- yarn build
+- openssl aes-256-cbc -K $encrypted_e521381b9223_key -iv $encrypted_e521381b9223_iv -in ci-key.json.enc -out ci-key.json -d
+- cd test && yarn install
+
+script: yarn test:ci
