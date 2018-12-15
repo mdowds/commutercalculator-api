@@ -22,13 +22,15 @@ server.get('/destinations', (req, res) => {
             });
             const output = stations
                 .map(s => {
+                    const station = s.data();
                     return {
-                        id: s.data().sid,
-                        name: s.data().name,
-                        postcode: s.data().postcode,
+                        id: station.sid,
+                        name: station.name,
+                        postcode: station.postcode,
+                        zones: station.zones,
                         position: {
-                            lat: s.data().location.latitude,
-                            lng: s.data().location.longitude
+                            lat: station.location.latitude,
+                            lng: station.location.longitude
                         }
                     }
                 })

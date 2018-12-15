@@ -4,3 +4,4 @@ key.json
 
 *.js
 *.js.map
+!test/*.js

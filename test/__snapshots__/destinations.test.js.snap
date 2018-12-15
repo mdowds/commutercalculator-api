@@ -1,0 +1,839 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /destinations should match snapshot 1`] = `
+Array [
+  Object {
+    "id": "ZAD",
+    "name": "Aldgate",
+    "position": Object {
+      "lat": 51.5143423787415,
+      "lng": -0.0756269126501567,
+    },
+    "postcode": "EC3N 1AH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZAE",
+    "name": "Aldgate East",
+    "position": Object {
+      "lat": 51.5150816226404,
+      "lng": -0.0730014627258136,
+    },
+    "postcode": "E1 7PT",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZAN",
+    "name": "Angel",
+    "position": Object {
+      "lat": 51.5329680156891,
+      "lng": -0.105581448946398,
+    },
+    "postcode": "N1 8XB",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZBS",
+    "name": "Baker Street",
+    "position": Object {
+      "lat": 51.5231296204391,
+      "lng": -0.15690419441262,
+    },
+    "postcode": "NW1 5LA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "BAH",
+    "name": "Bank",
+    "position": Object {
+      "lat": 51.513347062296,
+      "lng": -0.0890001239496697,
+    },
+    "postcode": "EC3V 3LA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZBB",
+    "name": "Barbican",
+    "position": Object {
+      "lat": 51.5202152835411,
+      "lng": -0.0977215786403087,
+    },
+    "postcode": "EC1A 4JA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZBY",
+    "name": "Bayswater",
+    "position": Object {
+      "lat": 51.5121112883667,
+      "lng": -0.187901573927441,
+    },
+    "postcode": "W2 4QH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "BFR",
+    "name": "Blackfriars",
+    "position": Object {
+      "lat": 51.5115869277802,
+      "lng": -0.102995385235787,
+    },
+    "postcode": "EC4V 4DD",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZBD",
+    "name": "Bond Street",
+    "position": Object {
+      "lat": 51.5137975247838,
+      "lng": -0.149613609827946,
+    },
+    "postcode": "W1C 2HU",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "BRG",
+    "name": "Borough",
+    "position": Object {
+      "lat": 51.501048869407,
+      "lng": -0.0941973231491299,
+    },
+    "postcode": "SE1 1JX",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "CST",
+    "name": "Cannon Street",
+    "position": Object {
+      "lat": 51.5113620889071,
+      "lng": -0.0902505268833338,
+    },
+    "postcode": "EC4N 6AP",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZCY",
+    "name": "Chancery Lane",
+    "position": Object {
+      "lat": 51.5184940165847,
+      "lng": -0.111962027485689,
+    },
+    "postcode": "WC1V 6DR",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "CHC",
+    "name": "Charing Cross",
+    "position": Object {
+      "lat": 51.5083586300048,
+      "lng": -0.124802938133095,
+    },
+    "postcode": "WC2N 5HS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "CTK",
+    "name": "City Thameslink",
+    "position": Object {
+      "lat": 51.5139350677627,
+      "lng": -0.103618449171561,
+    },
+    "postcode": "EC4M 7JH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZCV",
+    "name": "Covent Garden",
+    "position": Object {
+      "lat": 51.5127602348582,
+      "lng": -0.124506894632723,
+    },
+    "postcode": "WC2E 9JT",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZET",
+    "name": "Earls Court",
+    "position": Object {
+      "lat": 51.4913566719448,
+      "lng": -0.194313809287265,
+    },
+    "postcode": "SW5 9QA",
+    "zones": Array [
+      1,
+      2,
+    ],
+  },
+  Object {
+    "id": "ZER",
+    "name": "Edgware Road (Bakerloo)",
+    "position": Object {
+      "lat": 51.5206453612591,
+      "lng": -0.170539551586277,
+    },
+    "postcode": "W2 1DY",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZEM",
+    "name": "Edgware Road (Circle/District/Hammersmith and City)",
+    "position": Object {
+      "lat": 51.5199980431141,
+      "lng": -0.167668254281134,
+    },
+    "postcode": "NW1 5DH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "EPH",
+    "name": "Elephant and Castle",
+    "position": Object {
+      "lat": 51.4958493824392,
+      "lng": -0.100738714840864,
+    },
+    "postcode": "SE1 6LW",
+    "zones": Array [
+      1,
+      2,
+    ],
+  },
+  Object {
+    "id": "ZEK",
+    "name": "Embankment",
+    "position": Object {
+      "lat": 51.5073124947768,
+      "lng": -0.122367336527157,
+    },
+    "postcode": "WC2N 6NS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "EUS",
+    "name": "Euston",
+    "position": Object {
+      "lat": 51.5286643305288,
+      "lng": -0.133296471846732,
+    },
+    "postcode": "NW1 2DU",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZES",
+    "name": "Euston Square",
+    "position": Object {
+      "lat": 51.5286643305288,
+      "lng": -0.133296471846732,
+    },
+    "postcode": "NW1 2BN",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZFD",
+    "name": "Farringdon",
+    "position": Object {
+      "lat": 51.5201956882975,
+      "lng": -0.10484306195035,
+    },
+    "postcode": "EC1M 6BY",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "FST",
+    "name": "Fenchurch Street",
+    "position": Object {
+      "lat": 51.5115667058932,
+      "lng": -0.0785541528077214,
+    },
+    "postcode": "EC3M 4AJ",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZGR",
+    "name": "Gloucester Road",
+    "position": Object {
+      "lat": 51.4944995577167,
+      "lng": -0.183543559526477,
+    },
+    "postcode": "SW7 4SF",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZGS",
+    "name": "Goodge Street",
+    "position": Object {
+      "lat": 51.5206131094572,
+      "lng": -0.134807690165887,
+    },
+    "postcode": "W1T 2HF",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZGP",
+    "name": "Great Portland Street",
+    "position": Object {
+      "lat": 51.5237887958946,
+      "lng": -0.143961425280776,
+    },
+    "postcode": "W1W 5PP",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZGE",
+    "name": "Green Park",
+    "position": Object {
+      "lat": 51.5067604844939,
+      "lng": -0.142477575597482,
+    },
+    "postcode": "W1J 7BX",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZHS",
+    "name": "High Street Kensington",
+    "position": Object {
+      "lat": 51.5007294453891,
+      "lng": -0.191566057626722,
+    },
+    "postcode": "W8 5SA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZHO",
+    "name": "Holborn",
+    "position": Object {
+      "lat": 51.5172357350693,
+      "lng": -0.11984050743238,
+    },
+    "postcode": "WC2B 6AA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "HOX",
+    "name": "Hoxton",
+    "position": Object {
+      "lat": 51.5313916125251,
+      "lng": -0.0755856472034941,
+    },
+    "postcode": "E2 8HR",
+    "zones": Array [
+      1,
+      2,
+    ],
+  },
+  Object {
+    "id": "ZHY",
+    "name": "Hyde Park Corner",
+    "position": Object {
+      "lat": 51.5025840127082,
+      "lng": -0.15247411397849,
+    },
+    "postcode": "SW1X 7LY",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "KGX",
+    "name": "King's Cross",
+    "position": Object {
+      "lat": 51.5307981909079,
+      "lng": -0.122756421397208,
+    },
+    "postcode": "N1 9AL",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZKN",
+    "name": "Knightsbridge",
+    "position": Object {
+      "lat": 51.5013548976071,
+      "lng": -0.160664486118808,
+    },
+    "postcode": "SW3 1ED",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZLN",
+    "name": "Lambeth North",
+    "position": Object {
+      "lat": 51.4991299458658,
+      "lng": -0.111768261180963,
+    },
+    "postcode": "SE1 7XG",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZLA",
+    "name": "Lancaster Gate",
+    "position": Object {
+      "lat": 51.5118909430837,
+      "lng": -0.175429928574922,
+    },
+    "postcode": "W2 4QH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZLS",
+    "name": "Leicester Square",
+    "position": Object {
+      "lat": 51.5112911816198,
+      "lng": -0.128242147580481,
+    },
+    "postcode": "WC2H 0AP",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "LST",
+    "name": "Liverpool Street",
+    "position": Object {
+      "lat": 51.5175982643439,
+      "lng": -0.0822496222771093,
+    },
+    "postcode": "EC2M 7PR",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "LBG",
+    "name": "London Bridge",
+    "position": Object {
+      "lat": 51.5046743475629,
+      "lng": -0.0860055981730393,
+    },
+    "postcode": "SE1 2SW",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZMH",
+    "name": "Mansion House",
+    "position": Object {
+      "lat": 51.5120917501221,
+      "lng": -0.0941976577543322,
+    },
+    "postcode": "EC4N 6JD",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZMA",
+    "name": "Marble Arch",
+    "position": Object {
+      "lat": 51.5139654917905,
+      "lng": -0.158571216249827,
+    },
+    "postcode": "W1C 2JS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "MYB",
+    "name": "Marylebone",
+    "position": Object {
+      "lat": 51.5223966684401,
+      "lng": -0.163492563860306,
+    },
+    "postcode": "NW1 6JJ",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZMM",
+    "name": "Monument",
+    "position": Object {
+      "lat": 51.5106304159018,
+      "lng": -0.0861883136877794,
+    },
+    "postcode": "EC4R 9AA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "MOG",
+    "name": "Moorgate",
+    "position": Object {
+      "lat": 51.5184371390077,
+      "lng": -0.0890176878750945,
+    },
+    "postcode": "EC2M 6TX",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZNG",
+    "name": "Notting Hill Gate",
+    "position": Object {
+      "lat": 51.5093753363454,
+      "lng": -0.195921618455085,
+    },
+    "postcode": "W11 3HT",
+    "zones": Array [
+      1,
+      2,
+    ],
+  },
+  Object {
+    "id": "OLD",
+    "name": "Old Street",
+    "position": Object {
+      "lat": 51.525581471626,
+      "lng": -0.0876229578285339,
+    },
+    "postcode": "EC1V 9NR",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZOC",
+    "name": "Oxford Circus",
+    "position": Object {
+      "lat": 51.5152234024753,
+      "lng": -0.140836171281216,
+    },
+    "postcode": "W1C 2JS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "PAD",
+    "name": "Paddington",
+    "position": Object {
+      "lat": 51.5153937854761,
+      "lng": -0.17573675205718,
+    },
+    "postcode": "W2 1RH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZPC",
+    "name": "Piccadilly Circus",
+    "position": Object {
+      "lat": 51.5096967485824,
+      "lng": -0.133711597193113,
+    },
+    "postcode": "W1J 9HS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZPO",
+    "name": "Pimlico",
+    "position": Object {
+      "lat": 51.4895528621095,
+      "lng": -0.13310825841606,
+    },
+    "postcode": "SW1V 2JA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZQW",
+    "name": "Queensway",
+    "position": Object {
+      "lat": 51.5104492329499,
+      "lng": -0.187419903087067,
+    },
+    "postcode": "W2 4SS",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZRP",
+    "name": "Regents Park",
+    "position": Object {
+      "lat": 51.523810673215,
+      "lng": -0.145344410943574,
+    },
+    "postcode": "NW1 5HA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZRS",
+    "name": "Russell Square",
+    "position": Object {
+      "lat": 51.5230130380911,
+      "lng": -0.12459019776958,
+    },
+    "postcode": "WC1N 1LG",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "SDC",
+    "name": "Shoreditch High Street",
+    "position": Object {
+      "lat": 51.5234668189696,
+      "lng": -0.0770874246719852,
+    },
+    "postcode": "E1 6AW",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZLQ",
+    "name": "Sloane Square",
+    "position": Object {
+      "lat": 51.4923597642465,
+      "lng": -0.156488857475889,
+    },
+    "postcode": "SW1W 8BB",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZSK",
+    "name": "South Kensington",
+    "position": Object {
+      "lat": 51.4940713655842,
+      "lng": -0.173923023092099,
+    },
+    "postcode": "SW7 2NB",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "YSK",
+    "name": "Southwark",
+    "position": Object {
+      "lat": 51.5038536204048,
+      "lng": -0.105794939570331,
+    },
+    "postcode": "SE1 8NW",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "YSJ",
+    "name": "St. James's Park",
+    "position": Object {
+      "lat": 51.4996097944303,
+      "lng": -0.133878755377767,
+    },
+    "postcode": "SW1H 0BD",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "STP",
+    "name": "St. Pancras",
+    "position": Object {
+      "lat": 51.5305544016814,
+      "lng": -0.12550578197006,
+    },
+    "postcode": "NW1 2QP",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "YSP",
+    "name": "St. Pauls",
+    "position": Object {
+      "lat": 51.5148352959337,
+      "lng": -0.0975710006650858,
+    },
+    "postcode": "EC2V 6AA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZTM",
+    "name": "Temple",
+    "position": Object {
+      "lat": 51.5110406072706,
+      "lng": -0.113725750277665,
+    },
+    "postcode": "WC2R 2PH",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZTC",
+    "name": "Tottenham Court Road",
+    "position": Object {
+      "lat": 51.5162108700746,
+      "lng": -0.131110438934185,
+    },
+    "postcode": "W1D 2DA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "YTG",
+    "name": "Tower Gateway",
+    "position": Object {
+      "lat": 51.5103926423114,
+      "lng": -0.0744098772286296,
+    },
+    "postcode": "EC3N 1JL",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZTH",
+    "name": "Tower Hill",
+    "position": Object {
+      "lat": 51.5103942732372,
+      "lng": -0.0767011984581268,
+    },
+    "postcode": "EC3N 4DJ",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "VXH",
+    "name": "Vauxhall",
+    "position": Object {
+      "lat": 51.4857358017157,
+      "lng": -0.123829952856406,
+    },
+    "postcode": "SW8 1SR",
+    "zones": Array [
+      1,
+      2,
+    ],
+  },
+  Object {
+    "id": "VIC",
+    "name": "Victoria",
+    "position": Object {
+      "lat": 51.4964239527317,
+      "lng": -0.143920706325316,
+    },
+    "postcode": "SW1E 5JX",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZWS",
+    "name": "Warren Street",
+    "position": Object {
+      "lat": 51.5245799886272,
+      "lng": -0.138278331644798,
+    },
+    "postcode": "NW1 3AA",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "WAT",
+    "name": "Waterloo",
+    "position": Object {
+      "lat": 51.5031466396974,
+      "lng": -0.113259251998453,
+    },
+    "postcode": "SE1 7NY",
+    "zones": Array [
+      1,
+    ],
+  },
+  Object {
+    "id": "ZWM",
+    "name": "Westminster",
+    "position": Object {
+      "lat": 51.5014015913501,
+      "lng": -0.125002079249726,
+    },
+    "postcode": "SW1A 2JR",
+    "zones": Array [
+      1,
+    ],
+  },
+]
+`;
