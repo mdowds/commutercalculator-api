@@ -1,4 +1,5 @@
 language: node_js
+node_js: node #latest stable version
 
 before_script:
 - yarn build
