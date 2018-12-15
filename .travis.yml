@@ -3,7 +3,7 @@ node_js: node #latest stable version
 
 before_script:
 - yarn build
-- openssl aes-256-cbc -K $encrypted_e521381b9223_key -iv $encrypted_e521381b9223_iv -in ci-key.json.enc -out ci-key.json -d
+- openssl aes-256-cbc -K $encrypted_cc828242bf9e_key -iv $encrypted_cc828242bf9e_iv -in ci-key.json.enc -out ci-key.json -d
 - cd test && yarn install
 
 script: yarn test:ci
