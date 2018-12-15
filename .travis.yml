@@ -6,4 +6,4 @@ before_script:
 - openssl aes-256-cbc -K $encrypted_cc828242bf9e_key -iv $encrypted_cc828242bf9e_iv -in ci-key.json.enc -out ci-key.json -d
 - cd test && yarn install
 
-script: yarn test:ci
+script: yarn run test:ci
