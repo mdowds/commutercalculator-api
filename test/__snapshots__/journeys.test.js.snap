@@ -16,7 +16,7 @@ Object {
   },
   "results": Array [
     Object {
-      "directionsUrl": "",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Abbey+Wood+Station,London&destination=Acton+Central+Station,London&travelmode=transit",
       "journeyTime": 110,
       "origin": Object {
         "id": "ABW",

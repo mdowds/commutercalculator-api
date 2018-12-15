@@ -12,7 +12,7 @@ export default async function journeysTo(db: Firestore, destination: string) {
             const journeys = extractArray<Journey>(journeysSnapshot);
 
             const results = journeys.map(journey => ({
-                directionsUrl: '',
+                directionsUrl: makeDirectionsUrl(journey.origin.name, destination.name),
                 journeyTime: journey.time,
                 origin: makeStationResponse(journey.origin)
             }));
@@ -22,4 +22,11 @@ export default async function journeysTo(db: Firestore, destination: string) {
                 results
             };
         })
+}
+
+function makeDirectionsUrl(origin: string, destination: string): string {
+    const baseUrl = 'https://www.google.com/maps/dir/?api=1';
+    const encodedOrigin = encodeURI(origin.replace(' ', '+'));
+    const encodedDestination = encodeURI(destination.replace(' ', '+'));
+    return `${baseUrl}&origin=${encodedOrigin}+Station,London&destination=${encodedDestination}+Station,London&travelmode=transit`
 }
