@@ -26,6 +26,16 @@ Object {
           "lng": 0.120271969782359,
         },
         "postcode": "SE2 9RH",
+        "zones": Array [
+          4,
+        ],
+      },
+      "seasonTickets": Object {
+        "travelcard": Object {
+          "maxZone": 4,
+          "minZone": 2,
+          "price": 1092,
+        },
       },
     },
   ],

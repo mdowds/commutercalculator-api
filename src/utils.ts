@@ -14,7 +14,7 @@ export function makeStationResponse(station: Station): StationResponse {
         id: station.sid,
         name: station.name,
         postcode: station.postcode,
-        zones: station.zones || undefined,
+        zones: station.zones,
         position: {
             lat: station.location.latitude,
             lng: station.location.longitude

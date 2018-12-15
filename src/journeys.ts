@@ -14,7 +14,10 @@ export default async function journeysTo(db: Firestore, destination: string) {
             const results = journeys.map(journey => ({
                 directionsUrl: makeDirectionsUrl(journey.origin.name, destination.name),
                 journeyTime: journey.time,
-                origin: makeStationResponse(journey.origin)
+                origin: makeStationResponse(journey.origin),
+                seasonTickets: {
+                    travelcard: (journey.travelcard || undefined)
+                }
             }));
 
             return {
