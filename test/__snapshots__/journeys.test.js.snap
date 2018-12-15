@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /journeys/to should match snapshot 1`] = `
+Object {
+  "destination": Object {
+    "id": "ACC",
+    "name": "Acton Central",
+    "position": Object {
+      "lat": 51.5087577801896,
+      "lng": -0.263430199363473,
+    },
+    "postcode": "W3 6BD",
+  },
+  "results": Array [
+    Object {
+      "directionsUrl": "",
+      "journeyTime": 110,
+      "origin": Object {
+        "id": "ABW",
+        "name": "Abbey Wood",
+        "position": Object {
+          "lat": 51.4907840957031,
+          "lng": 0.120271969782359,
+        },
+        "postcode": "SE2 9RH",
+      },
+    },
+  ],
+}
+`;
