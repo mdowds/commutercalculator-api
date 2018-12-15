@@ -10,6 +10,9 @@ Object {
       "lng": -0.263430199363473,
     },
     "postcode": "W3 6BD",
+    "zones": Array [
+      2,
+    ],
   },
   "results": Array [
     Object {
