@@ -16,7 +16,8 @@ export default async function journeysTo(db: Firestore, destination: string) {
                 journeyTime: journey.time,
                 origin: makeStationResponse(journey.origin),
                 seasonTickets: {
-                    travelcard: (journey.travelcard || undefined)
+                    travelcard: (journey.travelcard || undefined),
+                    seasonTicket: (journey.seasonTicket || undefined),
                 }
             }));
 

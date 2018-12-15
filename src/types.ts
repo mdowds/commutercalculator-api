@@ -18,6 +18,7 @@ export interface Journey {
     readonly origin: Station
     readonly time: number
     readonly travelcard?: Travelcard
+    readonly seasonTicket?: {readonly price: number}
 }
 
 export interface StationResponse {

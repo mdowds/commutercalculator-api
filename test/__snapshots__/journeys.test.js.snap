@@ -3,21 +3,21 @@
 exports[`GET /journeys/to should match snapshot 1`] = `
 Object {
   "destination": Object {
-    "id": "ACC",
-    "name": "Acton Central",
+    "id": "LBG",
+    "name": "London Bridge",
     "position": Object {
-      "lat": 51.5087577801896,
-      "lng": -0.263430199363473,
+      "lat": 51.5046743475629,
+      "lng": -0.0860055981730393,
     },
-    "postcode": "W3 6BD",
+    "postcode": "SE1 2SW",
     "zones": Array [
-      2,
+      1,
     ],
   },
   "results": Array [
     Object {
-      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Abbey+Wood+Station,London&destination=Acton+Central+Station,London&travelmode=transit",
-      "journeyTime": 110,
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Abbey+Wood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
+      "journeyTime": 59,
       "origin": Object {
         "id": "ABW",
         "name": "Abbey Wood",
@@ -31,10 +31,13 @@ Object {
         ],
       },
       "seasonTickets": Object {
+        "seasonTicket": Object {
+          "price": 1352,
+        },
         "travelcard": Object {
           "maxZone": 4,
-          "minZone": 2,
-          "price": 1092,
+          "minZone": 1,
+          "price": 1892,
         },
       },
     },

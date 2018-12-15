@@ -4,7 +4,7 @@ let journeys;
 
 describe('GET /journeys/to', () => {
     beforeAll(async () => {
-        journeys = await fetch('http://localhost:5000/journeys/to/ACC').then(r => r.json());
+        journeys = await fetch('http://localhost:5000/journeys/to/LBG').then(r => r.json());
     });
 
     it('should match snapshot', () => {
