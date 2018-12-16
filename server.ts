@@ -4,6 +4,7 @@ import destinations from "./src/destinations";
 import journeysTo from "./src/journeys";
 
 const server = express();
+const port = process.env.PORT || 5000;
 
 const db = new Firestore({
     projectId: process.env.GCLOUD_PROJECT_ID,
@@ -27,4 +28,4 @@ server.get('/journeys/to/:destination', (req, res) => {
     journeysTo(db, req.params.destination).then(output => res.send(output));
 });
 
-server.listen(5000, () => console.log('Server listening on port 5000'));
+server.listen(port, () => console.log(`Server listening on port ${port}`));
