@@ -5,17 +5,17 @@ import journeysTo from "./src/journeys";
 
 const server = express();
 
-const firestoreKey = JSON.parse(`"${process.env.GCLOUD_SA_KEY}"`);
-
 const db = new Firestore({
     projectId: process.env.GCLOUD_PROJECT_ID,
-    credentials: {
-        client_email: process.env.GCLOUD_CLIENT_EMAIL,
-        private_key: firestoreKey
-    },
     timestampsInSnapshots: true
 });
 if (process.env.GCLOUD_KEY_FILE) db.settings({keyFilename: process.env.GCLOUD_KEY_FILE});
+if (process.env.GCLOUD_PROJECT_ID && process.env.GCLOUD_SA_KEY) db.settings({
+    credentials: {
+        client_email: process.env.GCLOUD_CLIENT_EMAIL,
+        private_key: JSON.parse(`"${process.env.GCLOUD_SA_KEY}"`)
+    }
+});
 
 server.get('/destinations', (req, res) => {
     console.log('GET', req.url);
