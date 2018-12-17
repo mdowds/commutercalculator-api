@@ -3,10 +3,8 @@ import {extractArray, makeStationResponse, sortByProperty} from "./utils";
 import {Station, StationResponse} from "./types";
 
 export default async function destinations(db: Firestore) {
-    const stationsRef = db.collection('stations');
-    return await stationsRef
-        .where('zones', 'array-contains', 1)
-        .get()
+    const stationsRef = db.collection('destinations');
+    return await stationsRef.get()
         .then(snapshot => {
             const stationResponses = extractArray<Station>(snapshot)
                 .map(makeStationResponse);
