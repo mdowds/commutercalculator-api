@@ -3,7 +3,7 @@ import {extractArray, makeStationResponse} from "./utils";
 import {Journey, Station} from "./types";
 
 export default async function journeysTo(db: Firestore, destination: string) {
-    const destinationRef = db.collection('stations').doc(destination);
+    const destinationRef = db.collection('destinations').doc(destination);
     const journeysRef = destinationRef.collection('journeys');
 
     return await Promise.all([destinationRef.get(), journeysRef.get()])
@@ -17,7 +17,7 @@ export default async function journeysTo(db: Firestore, destination: string) {
                 origin: makeStationResponse(journey.origin),
                 seasonTickets: {
                     travelcard: (journey.travelcard || undefined),
-                    seasonTicket: (journey.seasonTicket || undefined),
+                    seasonTicket: (journey.season_ticket || undefined),
                 }
             }));
 
