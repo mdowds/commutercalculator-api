@@ -1,10 +1,13 @@
 import {Firestore} from "@google-cloud/firestore";
 import * as express from 'express';
+import cors = require('cors');
 import destinations from "./src/destinations";
 import journeysTo from "./src/journeys";
 
 const server = express();
 const port = process.env.PORT || 5000;
+
+server.use(cors({origin: /mdowds\.com$/}));
 
 const db = new Firestore({
     projectId: process.env.GCLOUD_PROJECT_ID,
