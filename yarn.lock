@@ -2,16 +2,15 @@
 # yarn lockfile v1
 
 
-"@google-cloud/firestore@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@google-cloud/firestore/-/firestore-2.0.0.tgz#f97490f134dc8016c044246f58584b4191773650"
-  integrity sha512-KZy9VXXP5zGCnp5y79SMDORGpFJj72V/MhFw7L8ZK1QS4ajEbbuxqTTv6abIca162FDoob8WZVRMvEVSdjoZkw==
+"@google-cloud/firestore@^2.2.4":
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/@google-cloud/firestore/-/firestore-2.2.4.tgz#4b62ede5d33620125565903c2b1db19084d3b8b1"
+  integrity sha512-Xw3AMvye3BhPPr5cIjvxLa5QBuR/yUmGO96SkQnJeEqgpHNfHwFXxGyUi4wcR4ywiw86o/JA7ldlcpKchMsN9Q==
   dependencies:
     bun "^0.0.12"
     deep-equal "^1.0.1"
     functional-red-black-tree "^1.0.1"
-    google-gax "^1.0.0"
-    lodash.merge "^4.6.1"
+    google-gax "^1.1.2"
     through2 "^3.0.0"
 
 "@grpc/grpc-js@^0.4.0":
@@ -455,10 +454,10 @@ google-auth-library@^4.0.0:
     lru-cache "^5.0.0"
     semver "^6.0.0"
 
-google-gax@^1.0.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/google-gax/-/google-gax-1.1.1.tgz#b0bd56513d52298a5dc9e6bd00389e806120f8ae"
-  integrity sha512-30CLetXzyd9B1Ilqvt4q9ETaeSUgJ54ygwtLRDyPrvl6Wb+s2U7WdwCpfkrbWWmEUxh+FTQq5PMcyW8HQ+BiGA==
+google-gax@^1.1.2:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/google-gax/-/google-gax-1.1.4.tgz#b455cc7c8a3173cfa96d2df1c2f9d142af5452fb"
+  integrity sha512-Us35ZD3T+MKvSpCN6lO+VBH1tDbNwhyOihNnPaCBerVIdkmEhHBk+onPnU84YvhCd6SRRHYt1B2vWZEH5t1SdQ==
   dependencies:
     "@grpc/grpc-js" "^0.4.0"
     "@grpc/proto-loader" "^0.5.1"
@@ -579,11 +578,6 @@ lodash.has@^4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/lodash.has/-/lodash.has-4.5.2.tgz#d19f4dc1095058cccbe2b0cdf4ee0fe4aa37c862"
   integrity sha1-0Z9NwQlQWMzL4rDN9O4P5Ko3yGI=
-
-lodash.merge@^4.6.1:
-  version "4.6.2"
-  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
-  integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
 
 long@^4.0.0:
   version "4.0.0"
