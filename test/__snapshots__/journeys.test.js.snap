@@ -17,7 +17,7 @@ Object {
   "results": Array [
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alexandra+Palace+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "AAP",
         "name": "Alexandra Palace",
@@ -69,7 +69,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Acton+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 47,
       "origin": Object {
         "id": "ACC",
         "name": "Acton Central",
@@ -95,7 +95,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Angel+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 56,
+      "journeyTime": 57,
       "origin": Object {
         "id": "AGR",
         "name": "Angel Road",
@@ -118,7 +118,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Acton+Main%20Line+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 48,
       "origin": Object {
         "id": "AML",
         "name": "Acton Main Line",
@@ -141,7 +141,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Amersham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 60,
+      "journeyTime": 61,
       "origin": Object {
         "id": "AMR",
         "name": "Amersham",
@@ -164,7 +164,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Anerley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 31,
+      "journeyTime": 32,
       "origin": Object {
         "id": "ANZ",
         "name": "Anerley",
@@ -242,7 +242,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bank+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 6,
+      "journeyTime": 7,
       "origin": Object {
         "id": "BAH",
         "name": "Bank",
@@ -265,7 +265,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Battersea+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 37,
       "origin": Object {
         "id": "BAK",
         "name": "Battersea Park",
@@ -291,7 +291,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Balham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 23,
       "origin": Object {
         "id": "BAL",
         "name": "Balham",
@@ -317,7 +317,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bruce+Grove+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 48,
       "origin": Object {
         "id": "BCV",
         "name": "Bruce Grove",
@@ -392,7 +392,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bethnal+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 26,
       "origin": Object {
         "id": "BET",
         "name": "Bethnal Green",
@@ -415,7 +415,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brentford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 39,
       "origin": Object {
         "id": "BFD",
         "name": "Brentford",
@@ -441,7 +441,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Blackfriars+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 12,
+      "journeyTime": 13,
       "origin": Object {
         "id": "BFR",
         "name": "Blackfriars",
@@ -516,7 +516,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Blackhorse+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "BHO",
         "name": "Blackhorse Road",
@@ -539,7 +539,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Birkbeck+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "BIK",
         "name": "Birkbeck",
@@ -588,7 +588,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Blackheath+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "BKH",
         "name": "Blackheath",
@@ -640,7 +640,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bickley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "BKL",
         "name": "Bickley",
@@ -692,7 +692,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brimsdown+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 44,
       "origin": Object {
         "id": "BMD",
         "name": "Brimsdown",
@@ -741,7 +741,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bromley+South+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "BMS",
         "name": "Bromley South",
@@ -793,7 +793,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Barnes+Bridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "BNI",
         "name": "Barnes Bridge",
@@ -845,7 +845,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bowes+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 39,
       "origin": Object {
         "id": "BOP",
         "name": "Bowes Park",
@@ -918,7 +918,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Berrylands+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 50,
       "origin": Object {
         "id": "BRS",
         "name": "Berrylands",
@@ -944,7 +944,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brixton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 19,
+      "journeyTime": 20,
       "origin": Object {
         "id": "BRX",
         "name": "Brixton",
@@ -970,7 +970,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bushey+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 47,
       "origin": Object {
         "id": "BSH",
         "name": "Bushey",
@@ -993,7 +993,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brondesbury+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 36,
       "origin": Object {
         "id": "BSP",
         "name": "Brondesbury Park",
@@ -1019,7 +1019,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brondesbury+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 28,
       "origin": Object {
         "id": "BSY",
         "name": "Brondesbury",
@@ -1045,7 +1045,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Belvedere+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "BVD",
         "name": "Belvedere",
@@ -1086,7 +1086,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bexleyheath+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "BXH",
         "name": "Bexleyheath",
@@ -1164,7 +1164,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Cambridge+Heath+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 37,
       "origin": Object {
         "id": "CBH",
         "name": "Cambridge Heath",
@@ -1314,7 +1314,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chalfont+and%20Latimer+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 56,
+      "journeyTime": 57,
       "origin": Object {
         "id": "CFO",
         "name": "Chalfont and Latimer",
@@ -1337,7 +1337,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Crofton+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "CFT",
         "name": "Crofton Park",
@@ -1406,7 +1406,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chingford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 56,
       "origin": Object {
         "id": "CHI",
         "name": "Chingford",
@@ -1429,7 +1429,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chiswick+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "CHK",
         "name": "Chiswick",
@@ -1455,7 +1455,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Cheshunt+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 51,
       "origin": Object {
         "id": "CHN",
         "name": "Cheshunt",
@@ -1507,7 +1507,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Charing+Cross+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 13,
+      "journeyTime": 14,
       "origin": Object {
         "id": "CHX",
         "name": "Charing Cross",
@@ -1533,7 +1533,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Caledonian+Road%20and%20Barnsbury+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 31,
+      "journeyTime": 32,
       "origin": Object {
         "id": "CIR",
         "name": "Caledonian Road and Barnsbury",
@@ -1611,7 +1611,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Clapham+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "CLJ",
         "name": "Clapham Junction",
@@ -1637,7 +1637,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Clock+House+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "CLK",
         "name": "Clock House",
@@ -1712,7 +1712,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Camden+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 25,
+      "journeyTime": 26,
       "origin": Object {
         "id": "CMD",
         "name": "Camden Road",
@@ -1793,7 +1793,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Carpenders+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 58,
+      "journeyTime": 65,
       "origin": Object {
         "id": "CPK",
         "name": "Carpenders Park",
@@ -1816,7 +1816,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Clapton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 37,
       "origin": Object {
         "id": "CPT",
         "name": "Clapton",
@@ -1840,7 +1840,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Crouch+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 41,
       "origin": Object {
         "id": "CRH",
         "name": "Crouch Hill",
@@ -1863,7 +1863,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Cricklewood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 40,
       "origin": Object {
         "id": "CRI",
         "name": "Cricklewood",
@@ -2008,7 +2008,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chessington+South+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 59,
+      "journeyTime": 60,
       "origin": Object {
         "id": "CSS",
         "name": "Chessington South",
@@ -2034,7 +2034,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Cannon+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 10,
+      "journeyTime": 8,
       "origin": Object {
         "id": "CST",
         "name": "Cannon Street",
@@ -2161,7 +2161,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Crews+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 52,
+      "journeyTime": 53,
       "origin": Object {
         "id": "CWH",
         "name": "Crews Hill",
@@ -2187,7 +2187,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Crystal+Palace+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "CYP",
         "name": "Crystal Palace",
@@ -2214,7 +2214,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dagenham+Dock+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "DDK",
         "name": "Dagenham Dock",
@@ -2240,7 +2240,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Deptford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 10,
+      "journeyTime": 11,
       "origin": Object {
         "id": "DEP",
         "name": "Deptford",
@@ -2266,7 +2266,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dartford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "DFD",
         "name": "Dartford",
@@ -2292,7 +2292,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dalston+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 37,
       "origin": Object {
         "id": "DLJ",
         "name": "Dalston Junction",
@@ -2367,7 +2367,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Drayton+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 61,
+      "journeyTime": 62,
       "origin": Object {
         "id": "DRG",
         "name": "Drayton Green",
@@ -2390,7 +2390,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Drayton+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 23,
+      "journeyTime": 24,
       "origin": Object {
         "id": "DYP",
         "name": "Drayton Park",
@@ -2416,7 +2416,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Earlsfield+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "EAD",
         "name": "Earlsfield",
@@ -2465,7 +2465,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=East+Croydon+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 23,
       "origin": Object {
         "id": "ECR",
         "name": "East Croydon",
@@ -2491,7 +2491,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Eden+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "EDN",
         "name": "Eden Park",
@@ -2517,7 +2517,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Edmonton+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 55,
+      "journeyTime": 54,
       "origin": Object {
         "id": "EDR",
         "name": "Edmonton Green",
@@ -2566,7 +2566,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Elmers+End+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "ELE",
         "name": "Elmers End",
@@ -2592,7 +2592,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Elstree+and%20Borehamwood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "ELS",
         "name": "Elstree and Borehamwood",
@@ -2670,7 +2670,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Enfield+Chase+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 46,
+      "journeyTime": 47,
       "origin": Object {
         "id": "ENC",
         "name": "Enfield Chase",
@@ -2696,7 +2696,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Enfield+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 62,
+      "journeyTime": 61,
       "origin": Object {
         "id": "ENF",
         "name": "Enfield Town",
@@ -2722,7 +2722,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Enfield+Lock+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 48,
       "origin": Object {
         "id": "ENL",
         "name": "Enfield Lock",
@@ -2771,7 +2771,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Elephant+and%20Castle+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 7,
+      "journeyTime": 9,
       "origin": Object {
         "id": "EPH",
         "name": "Elephant and Castle",
@@ -2798,7 +2798,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Erith+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "ERH",
         "name": "Erith",
@@ -2850,7 +2850,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Euston+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "EUS",
         "name": "Euston",
@@ -2899,7 +2899,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ewell+West+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 53,
+      "journeyTime": 54,
       "origin": Object {
         "id": "EWW",
         "name": "Ewell West",
@@ -2925,7 +2925,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Essex+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "EXR",
         "name": "Essex Road",
@@ -2951,7 +2951,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Falconwood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "FCN",
         "name": "Falconwood",
@@ -2977,7 +2977,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Feltham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 53,
       "origin": Object {
         "id": "FEL",
         "name": "Feltham",
@@ -3104,7 +3104,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Finsbury+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "FPK",
         "name": "Finsbury Park",
@@ -3153,7 +3153,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Gordon+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 53,
       "origin": Object {
         "id": "GDH",
         "name": "Gordon Hill",
@@ -3228,7 +3228,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=George+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "GGJ",
         "name": "George Street",
@@ -3303,7 +3303,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Greenwich+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 15,
       "origin": Object {
         "id": "GNW",
         "name": "Greenwich",
@@ -3330,7 +3330,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Grange+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 46,
+      "journeyTime": 47,
       "origin": Object {
         "id": "GPK",
         "name": "Grange Park",
@@ -3408,7 +3408,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Gunnersbury+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "GUN",
         "name": "Gunnersbury",
@@ -3463,7 +3463,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hackney+Downs+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "HAC",
         "name": "Hackney Downs",
@@ -3486,7 +3486,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hanwell+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 48,
+      "journeyTime": 47,
       "origin": Object {
         "id": "HAN",
         "name": "Hanwell",
@@ -3558,7 +3558,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hampstead+Heath+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 36,
       "origin": Object {
         "id": "HDH",
         "name": "Hampstead Heath",
@@ -3584,7 +3584,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Headstone+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 58,
       "origin": Object {
         "id": "HDL",
         "name": "Headstone Lane",
@@ -3607,7 +3607,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Harlesden+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 42,
       "origin": Object {
         "id": "HDN",
         "name": "Harlesden",
@@ -3630,7 +3630,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hadley+Wood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 44,
       "origin": Object {
         "id": "HDW",
         "name": "Hadley Wood",
@@ -3656,7 +3656,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hendon+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 46,
+      "journeyTime": 48,
       "origin": Object {
         "id": "HEN",
         "name": "Hendon",
@@ -3683,7 +3683,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Haggerston+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 32,
       "origin": Object {
         "id": "HGG",
         "name": "Haggerston",
@@ -3706,7 +3706,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hither+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 19,
       "origin": Object {
         "id": "HGR",
         "name": "Hither Green",
@@ -3732,7 +3732,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Harringay+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "HGY",
         "name": "Harringay",
@@ -3758,7 +3758,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Highbury+and%20Islington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 20,
+      "journeyTime": 22,
       "origin": Object {
         "id": "HHY",
         "name": "Highbury and Islington",
@@ -3784,7 +3784,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Highams+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 49,
       "origin": Object {
         "id": "HIP",
         "name": "Highams Park",
@@ -3807,7 +3807,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hackney+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 49,
       "origin": Object {
         "id": "HKC",
         "name": "Hackney Central",
@@ -3859,7 +3859,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hampton+Court+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 58,
+      "journeyTime": 62,
       "origin": Object {
         "id": "HMC",
         "name": "Hampton Court",
@@ -3937,7 +3937,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hampton+Wick+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 54,
+      "journeyTime": 55,
       "origin": Object {
         "id": "HMW",
         "name": "Hampton Wick",
@@ -4013,7 +4013,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hounslow+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 59,
+      "journeyTime": 46,
       "origin": Object {
         "id": "HOU",
         "name": "Hounslow",
@@ -4039,7 +4039,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hoxton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 31,
+      "journeyTime": 29,
       "origin": Object {
         "id": "HOX",
         "name": "Hoxton",
@@ -4089,7 +4089,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hornsey+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 32,
       "origin": Object {
         "id": "HRN",
         "name": "Hornsey",
@@ -4167,7 +4167,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Harrow+and%20Wealdstone+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 39,
       "origin": Object {
         "id": "HRW",
         "name": "Harrow and Wealdstone",
@@ -4190,7 +4190,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Harringay+Green%20Lanes+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 41,
       "origin": Object {
         "id": "HRY",
         "name": "Harringay Green Lanes",
@@ -4236,7 +4236,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Heathrow+Terminal%204+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 68,
+      "journeyTime": 69,
       "origin": Object {
         "id": "HWF",
         "name": "Heathrow Terminal 4",
@@ -4282,7 +4282,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Heathrow+Terminals%201%202%203+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 60,
+      "journeyTime": 61,
       "origin": Object {
         "id": "HXX",
         "name": "Heathrow Terminals 1 2 3",
@@ -4305,7 +4305,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Haydons+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 40,
       "origin": Object {
         "id": "HYR",
         "name": "Haydons Road",
@@ -4357,7 +4357,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ilford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "IFD",
         "name": "Ilford",
@@ -4380,7 +4380,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Imperial+Wharf+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 41,
       "origin": Object {
         "id": "IMW",
         "name": "Imperial Wharf",
@@ -4406,7 +4406,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Isleworth+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 62,
+      "journeyTime": 63,
       "origin": Object {
         "id": "ISL",
         "name": "Isleworth",
@@ -4432,7 +4432,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kilburn+High%20Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "KBN",
         "name": "Kilburn High Road",
@@ -4481,7 +4481,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kidbrooke+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 21,
+      "journeyTime": 22,
       "origin": Object {
         "id": "KDB",
         "name": "Kidbrooke",
@@ -4507,7 +4507,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=King's+Cross+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 17,
       "origin": Object {
         "id": "KGX",
         "name": "King's Cross",
@@ -4530,7 +4530,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kenley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "KLY",
         "name": "Kenley",
@@ -4582,7 +4582,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kingston+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 52,
+      "journeyTime": 53,
       "origin": Object {
         "id": "KNG",
         "name": "Kingston",
@@ -4608,7 +4608,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kensal+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 40,
       "origin": Object {
         "id": "KNL",
         "name": "Kensal Green",
@@ -4680,7 +4680,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kensington+(Olympia)+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 40,
       "origin": Object {
         "id": "KPA",
         "name": "Kensington (Olympia)",
@@ -4706,7 +4706,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kent+House+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "KTH",
         "name": "Kent House",
@@ -4732,7 +4732,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kentish+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 23,
       "origin": Object {
         "id": "KTN",
         "name": "Kentish Town",
@@ -4758,7 +4758,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kentish+Town%20West+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 32,
       "origin": Object {
         "id": "KTW",
         "name": "Kentish Town West",
@@ -4784,7 +4784,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kew+Bridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "KWB",
         "name": "Kew Bridge",
@@ -4810,7 +4810,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kew+Gardens+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 54,
+      "journeyTime": 49,
       "origin": Object {
         "id": "KWG",
         "name": "Kew Gardens",
@@ -4863,7 +4863,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Lee+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 20,
+      "journeyTime": 21,
       "origin": Object {
         "id": "LEE",
         "name": "Lee",
@@ -4889,7 +4889,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Leyton+Midland%20Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 43,
       "origin": Object {
         "id": "LEM",
         "name": "Leyton Midland Road",
@@ -4912,7 +4912,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Leytonstone+High%20Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 39,
       "origin": Object {
         "id": "LER",
         "name": "Leytonstone High Road",
@@ -4935,7 +4935,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Lewisham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 13,
+      "journeyTime": 14,
       "origin": Object {
         "id": "LEW",
         "name": "Lewisham",
@@ -4988,7 +4988,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=London+Fields+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 33,
       "origin": Object {
         "id": "LOF",
         "name": "London Fields",
@@ -5011,7 +5011,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Liverpool+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 15,
       "origin": Object {
         "id": "LST",
         "name": "Liverpool Street",
@@ -5060,7 +5060,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Malden+Manor+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 52,
+      "journeyTime": 53,
       "origin": Object {
         "id": "MAL",
         "name": "Malden Manor",
@@ -5112,7 +5112,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Mitcham+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "MIJ",
         "name": "Mitcham Junction",
@@ -5138,7 +5138,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Mill+Hill%20Broadway+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "MIL",
         "name": "Mill Hill Broadway",
@@ -5164,7 +5164,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Manor+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 36,
       "origin": Object {
         "id": "MNP",
         "name": "Manor Park",
@@ -5188,7 +5188,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Moorgate+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 6,
+      "journeyTime": 7,
       "origin": Object {
         "id": "MOG",
         "name": "Moorgate",
@@ -5338,7 +5338,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Maryland+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "MYL",
         "name": "Maryland",
@@ -5387,7 +5387,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=New+Barnet+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 42,
       "origin": Object {
         "id": "NBA",
         "name": "New Barnet",
@@ -5439,7 +5439,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Norbiton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "NBT",
         "name": "Norbiton",
@@ -5465,7 +5465,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=North+Dulwich+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 19,
+      "journeyTime": 20,
       "origin": Object {
         "id": "NDL",
         "name": "North Dulwich",
@@ -5492,7 +5492,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=New+Eltham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 25,
+      "journeyTime": 26,
       "origin": Object {
         "id": "NEH",
         "name": "New Eltham",
@@ -5544,7 +5544,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Nunhead+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "NHD",
         "name": "Nunhead",
@@ -5593,7 +5593,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Norbury+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "NRB",
         "name": "Norbury",
@@ -5619,7 +5619,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=New+Southgate+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 35,
       "origin": Object {
         "id": "NSG",
         "name": "New Southgate",
@@ -5671,7 +5671,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=North+Wembley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 47,
       "origin": Object {
         "id": "NWB",
         "name": "North Wembley",
@@ -5694,7 +5694,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Norwood+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 19,
+      "journeyTime": 20,
       "origin": Object {
         "id": "NWD",
         "name": "Norwood Junction",
@@ -5720,7 +5720,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=New+Cross+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 9,
+      "journeyTime": 10,
       "origin": Object {
         "id": "NWX",
         "name": "New Cross",
@@ -5798,7 +5798,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Oakleigh+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 38,
       "origin": Object {
         "id": "OKL",
         "name": "Oakleigh Park",
@@ -5824,7 +5824,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Old+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 8,
+      "journeyTime": 9,
       "origin": Object {
         "id": "OLD",
         "name": "Old Street",
@@ -5873,7 +5873,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Paddington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "PAD",
         "name": "Paddington",
@@ -5896,7 +5896,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Palmers+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 39,
       "origin": Object {
         "id": "PAL",
         "name": "Palmers Green",
@@ -5948,7 +5948,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Purfleet+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 44,
       "origin": Object {
         "id": "PFL",
         "name": "Purfleet",
@@ -6000,7 +6000,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Peckham+Rye+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 15,
       "origin": Object {
         "id": "PMR",
         "name": "Peckham Rye",
@@ -6052,7 +6052,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Penge+West+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "PNW",
         "name": "Penge West",
@@ -6078,7 +6078,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ponders+End+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "PON",
         "name": "Ponders End",
@@ -6127,7 +6127,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Purley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "PUR",
         "name": "Purley",
@@ -6153,7 +6153,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Putney+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "PUT",
         "name": "Putney",
@@ -6203,7 +6203,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Queenstown+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 30,
       "origin": Object {
         "id": "QRB",
         "name": "Queenstown Road",
@@ -6229,7 +6229,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Queens+Road%20Peckham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "QRP",
         "name": "Queens Road Peckham",
@@ -6255,7 +6255,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Raynes+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 44,
       "origin": Object {
         "id": "RAY",
         "name": "Raynes Park",
@@ -6281,7 +6281,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Redbridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "RDB",
         "name": "Redbridge",
@@ -6307,7 +6307,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Riddlesdown+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "RDD",
         "name": "Riddlesdown",
@@ -6348,7 +6348,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Rectory+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 48,
+      "journeyTime": 47,
       "origin": Object {
         "id": "REC",
         "name": "Rectory Road",
@@ -6371,7 +6371,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Reedham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "RHM",
         "name": "Reedham",
@@ -6420,7 +6420,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Richmond+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 40,
       "origin": Object {
         "id": "RMD",
         "name": "Richmond",
@@ -6446,7 +6446,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Romford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "RMF",
         "name": "Romford",
@@ -6469,7 +6469,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Rainham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 40,
       "origin": Object {
         "id": "RNM",
         "name": "Rainham",
@@ -6518,7 +6518,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ravensbourne+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "RVB",
         "name": "Ravensbourne",
@@ -6544,7 +6544,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St+Johns+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 12,
+      "journeyTime": 13,
       "origin": Object {
         "id": "SAJ",
         "name": "St Johns",
@@ -6570,7 +6570,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Acton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 48,
       "origin": Object {
         "id": "SAT",
         "name": "South Acton",
@@ -6620,7 +6620,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Bermondsey+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 12,
+      "journeyTime": 13,
       "origin": Object {
         "id": "SBM",
         "name": "South Bermondsey",
@@ -6646,7 +6646,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Stonebridge+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 44,
       "origin": Object {
         "id": "SBP",
         "name": "Stonebridge Park",
@@ -6718,7 +6718,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Shoreditch+High%20Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 21,
       "origin": Object {
         "id": "SDC",
         "name": "Shoreditch High Street",
@@ -6764,7 +6764,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sudbury+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 52,
       "origin": Object {
         "id": "SDH",
         "name": "Sudbury Hill",
@@ -6787,7 +6787,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Stratford+International+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "SFA",
         "name": "Stratford International",
@@ -6837,7 +6837,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Slade+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "SGR",
         "name": "Slade Green",
@@ -6863,7 +6863,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sidcup+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "SID",
         "name": "Sidcup",
@@ -6889,7 +6889,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St+Helier+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 48,
       "origin": Object {
         "id": "SIH",
         "name": "St Helier",
@@ -6915,7 +6915,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St.+James%20Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 41,
       "origin": Object {
         "id": "SJS",
         "name": "St. James Street",
@@ -6938,7 +6938,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Stoke+Newington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 50,
       "origin": Object {
         "id": "SKW",
         "name": "Stoke Newington",
@@ -6961,7 +6961,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Silver+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 57,
+      "journeyTime": 56,
       "origin": Object {
         "id": "SLV",
         "name": "Silver Street",
@@ -7007,7 +7007,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Merton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "SMO",
         "name": "South Merton",
@@ -7076,7 +7076,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Shenfield+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "SNF",
         "name": "Shenfield",
@@ -7143,7 +7143,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Hampstead+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "SOH",
         "name": "South Hampstead",
@@ -7166,7 +7166,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Kenton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "SOK",
         "name": "South Kenton",
@@ -7189,7 +7189,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Shepherds+Bush+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "SPB",
         "name": "Shepherds Bush",
@@ -7305,7 +7305,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Streatham+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 43,
       "origin": Object {
         "id": "SRH",
         "name": "Streatham Hill",
@@ -7328,7 +7328,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Selhurst+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "SRS",
         "name": "Selhurst",
@@ -7351,7 +7351,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Shortlands+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "SRT",
         "name": "Shortlands",
@@ -7374,7 +7374,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Ruislip+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 51,
       "origin": Object {
         "id": "SRU",
         "name": "South Ruislip",
@@ -7397,7 +7397,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Streatham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "STE",
         "name": "Streatham",
@@ -7443,7 +7443,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Tottenham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 35,
       "origin": Object {
         "id": "STO",
         "name": "South Tottenham",
@@ -7466,7 +7466,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St.+Pancras+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 19,
       "origin": Object {
         "id": "STP",
         "name": "St. Pancras",
@@ -7492,7 +7492,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Strawberry+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 62,
+      "journeyTime": 63,
       "origin": Object {
         "id": "STW",
         "name": "Strawberry Hill",
@@ -7515,7 +7515,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sutton+Common+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 59,
+      "journeyTime": 58,
       "origin": Object {
         "id": "SUC",
         "name": "Sutton Common",
@@ -7584,7 +7584,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sundridge+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 31,
+      "journeyTime": 32,
       "origin": Object {
         "id": "SUP",
         "name": "Sundridge Park",
@@ -7607,7 +7607,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Surbiton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 35,
       "origin": Object {
         "id": "SUR",
         "name": "Surbiton",
@@ -7630,7 +7630,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Seven+Kings+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "SVK",
         "name": "Seven Kings",
@@ -7653,7 +7653,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Seven+Sisters+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "SVS",
         "name": "Seven Sisters",
@@ -7676,7 +7676,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sydenham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 28,
       "origin": Object {
         "id": "SYD",
         "name": "Sydenham",
@@ -7722,7 +7722,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Syon+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 54,
+      "journeyTime": 55,
       "origin": Object {
         "id": "SYL",
         "name": "Syon Lane",
@@ -7768,7 +7768,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tattenham+Corner+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 69,
+      "journeyTime": 67,
       "origin": Object {
         "id": "TAT",
         "name": "Tattenham Corner",
@@ -7837,7 +7837,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Thames+Ditton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 57,
+      "journeyTime": 60,
       "origin": Object {
         "id": "THD",
         "name": "Thames Ditton",
@@ -7883,7 +7883,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tottenham+Hale+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "TOM",
         "name": "Tottenham Hale",
@@ -7906,7 +7906,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tooting+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 39,
       "origin": Object {
         "id": "TOO",
         "name": "Tooting",
@@ -7929,7 +7929,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Thornton+Heath+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "TTH",
         "name": "Thornton Heath",
@@ -7998,7 +7998,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Twickenham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 51,
       "origin": Object {
         "id": "TWI",
         "name": "Twickenham",
@@ -8021,7 +8021,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Upper+Holloway+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "UHL",
         "name": "Upper Holloway",
@@ -8044,7 +8044,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Upminster+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "UPM",
         "name": "Upminster",
@@ -8067,7 +8067,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Upper+Warlingham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "UWL",
         "name": "Upper Warlingham",
@@ -8116,7 +8116,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Vauxhall+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 19,
+      "journeyTime": 20,
       "origin": Object {
         "id": "VXH",
         "name": "Vauxhall",
@@ -8143,7 +8143,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Waterloo+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 8,
+      "journeyTime": 9,
       "origin": Object {
         "id": "WAT",
         "name": "Waterloo",
@@ -8212,7 +8212,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Westcombe+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 23,
       "origin": Object {
         "id": "WCB",
         "name": "Westcombe Park",
@@ -8235,7 +8235,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Worcester+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "WCP",
         "name": "Worcester Park",
@@ -8258,7 +8258,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wembley+Stadium+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "WCX",
         "name": "Wembley Stadium",
@@ -8304,7 +8304,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Waddon+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "WDO",
         "name": "Waddon",
@@ -8327,7 +8327,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Drayton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 52,
+      "journeyTime": 54,
       "origin": Object {
         "id": "WDT",
         "name": "West Drayton",
@@ -8350,7 +8350,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Dulwich+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "WDU",
         "name": "West Dulwich",
@@ -8396,7 +8396,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Ham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 19,
       "origin": Object {
         "id": "WEH",
         "name": "West Ham",
@@ -8420,7 +8420,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Watford+High%20Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 57,
+      "journeyTime": 54,
       "origin": Object {
         "id": "WFH",
         "name": "Watford High Street",
@@ -8443,7 +8443,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Watford+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 43,
       "origin": Object {
         "id": "WFJ",
         "name": "Watford Junction",
@@ -8488,7 +8488,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Walthamstow+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 37,
       "origin": Object {
         "id": "WHC",
         "name": "Walthamstow Central",
@@ -8511,7 +8511,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Hampstead+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 23,
+      "journeyTime": 24,
       "origin": Object {
         "id": "WHD",
         "name": "West Hampstead",
@@ -8557,7 +8557,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Hampstead%20Thameslink+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "WHP",
         "name": "West Hampstead Thameslink",
@@ -8603,7 +8603,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Whyteleafe+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 39,
       "origin": Object {
         "id": "WHY",
         "name": "Whyteleafe",
@@ -8626,7 +8626,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Winchmore+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 41,
       "origin": Object {
         "id": "WIH",
         "name": "Winchmore Hill",
@@ -8649,7 +8649,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Willesden+Junction+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "WIJ",
         "name": "Willesden Junction",
@@ -8672,7 +8672,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wimbledon+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 48,
       "origin": Object {
         "id": "WIM",
         "name": "Wimbledon",
@@ -8695,7 +8695,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Waltham+Cross+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 49,
       "origin": Object {
         "id": "WLC",
         "name": "Waltham Cross",
@@ -8741,7 +8741,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wallington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "WLT",
         "name": "Wallington",
@@ -8764,7 +8764,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wembley+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 50,
       "origin": Object {
         "id": "WMB",
         "name": "Wembley Central",
@@ -8810,7 +8810,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Walthamstow+Queens%20Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 43,
       "origin": Object {
         "id": "WMW",
         "name": "Walthamstow Queens Road",
@@ -8856,7 +8856,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wandsworth+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "WNT",
         "name": "Wandsworth Town",
@@ -8925,7 +8925,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wimbledon+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "WPK",
         "name": "Wimbledon Park",
@@ -8971,7 +8971,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wood+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 47,
       "origin": Object {
         "id": "WST",
         "name": "Wood Street",
@@ -8994,7 +8994,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Sutton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 61,
+      "journeyTime": 62,
       "origin": Object {
         "id": "WSU",
         "name": "West Sutton",
@@ -9017,7 +9017,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wandsworth+Common+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 36,
       "origin": Object {
         "id": "WSW",
         "name": "Wandsworth Common",
@@ -9040,7 +9040,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Whitton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "WTN",
         "name": "Whitton",
@@ -9132,7 +9132,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wandsworth+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "WWR",
         "name": "Wandsworth Road",
@@ -9309,7 +9309,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Blackhorse+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "YBK",
         "name": "Blackhorse Lane",
@@ -9335,7 +9335,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Beddington+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "YBL",
         "name": "Beddington Lane",
@@ -9387,7 +9387,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Belgrave+Walk+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 51,
       "origin": Object {
         "id": "YBW",
         "name": "Belgrave Walk",
@@ -9413,7 +9413,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Church+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "YCS",
         "name": "Church Street",
@@ -9439,7 +9439,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Centrale+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 34,
       "origin": Object {
         "id": "YCT",
         "name": "Centrale",
@@ -9590,7 +9590,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=London+City%20Airport+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "YLC",
         "name": "London City Airport",
@@ -9613,7 +9613,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Langdon+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "YLP",
         "name": "Langdon Park",
@@ -9636,7 +9636,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Lebanon+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "YLR",
         "name": "Lebanon Road",
@@ -9740,7 +9740,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Morden+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 39,
       "origin": Object {
         "id": "YMR",
         "name": "Morden Road",
@@ -9816,7 +9816,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Phipps+Bridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 45,
       "origin": Object {
         "id": "YPB",
         "name": "Phipps Bridge",
@@ -9865,7 +9865,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Reeves+Corner+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "YRC",
         "name": "Reeves Corner",
@@ -9938,7 +9938,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St.+James's%20Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 15,
       "origin": Object {
         "id": "YSJ",
         "name": "St. James's Park",
@@ -9961,7 +9961,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Southwark+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 6,
+      "journeyTime": 7,
       "origin": Object {
         "id": "YSK",
         "name": "Southwark",
@@ -9984,7 +9984,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sandilands+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "YSL",
         "name": "Sandilands",
@@ -10010,7 +10010,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=St.+Pauls+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 15,
       "origin": Object {
         "id": "YSP",
         "name": "St. Pauls",
@@ -10056,7 +10056,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tower+Gateway+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 15,
       "origin": Object {
         "id": "YTG",
         "name": "Tower Gateway",
@@ -10128,7 +10128,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+India%20Quay+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 19,
       "origin": Object {
         "id": "YWI",
         "name": "West India Quay",
@@ -10151,7 +10151,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Kensington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "YWK",
         "name": "West Kensington",
@@ -10298,7 +10298,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Elverson+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 23,
       "origin": Object {
         "id": "ZAC",
         "name": "Elverson Road",
@@ -10368,7 +10368,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Arnos+Grove+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "ZAG",
         "name": "Arnos Grove",
@@ -10391,7 +10391,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Arsenal+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "ZAM",
         "name": "Arsenal",
@@ -10414,7 +10414,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Angel+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 11,
+      "journeyTime": 13,
       "origin": Object {
         "id": "ZAN",
         "name": "Angel",
@@ -10484,7 +10484,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=All+Saints+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZAS",
         "name": "All Saints",
@@ -10530,7 +10530,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Barbican+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZBB",
         "name": "Barbican",
@@ -10553,7 +10553,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bow+Church+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 29,
       "origin": Object {
         "id": "ZBC",
         "name": "Bow Church",
@@ -10576,7 +10576,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bond+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 13,
+      "journeyTime": 14,
       "origin": Object {
         "id": "ZBD",
         "name": "Bond Street",
@@ -10599,7 +10599,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bethnal+Green%20(Underground)+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 17,
       "origin": Object {
         "id": "ZBE",
         "name": "Bethnal Green (Underground)",
@@ -10622,7 +10622,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bounds+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 39,
       "origin": Object {
         "id": "ZBG",
         "name": "Bounds Green",
@@ -10738,7 +10738,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Barkingside+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "ZBN",
         "name": "Barkingside",
@@ -10761,7 +10761,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Burnt+Oak+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 40,
       "origin": Object {
         "id": "ZBO",
         "name": "Burnt Oak",
@@ -10784,7 +10784,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Belsize+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 26,
       "origin": Object {
         "id": "ZBP",
         "name": "Belsize Park",
@@ -10876,7 +10876,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Brent+Cross+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 31,
+      "journeyTime": 33,
       "origin": Object {
         "id": "ZBT",
         "name": "Brent Cross",
@@ -10923,7 +10923,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bayswater+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZBY",
         "name": "Bayswater",
@@ -10946,7 +10946,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Becontree+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 38,
+      "journeyTime": 39,
       "origin": Object {
         "id": "ZBZ",
         "name": "Becontree",
@@ -10993,7 +10993,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Canning+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 17,
       "origin": Object {
         "id": "ZCB",
         "name": "Canning Town",
@@ -11040,7 +11040,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Colindale+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "ZCD",
         "name": "Colindale",
@@ -11063,7 +11063,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Custom+House+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 25,
+      "journeyTime": 26,
       "origin": Object {
         "id": "ZCE",
         "name": "Custom House",
@@ -11086,7 +11086,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chalk+Farm+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 21,
+      "journeyTime": 22,
       "origin": Object {
         "id": "ZCF",
         "name": "Chalk Farm",
@@ -11109,7 +11109,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chigwell+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 48,
+      "journeyTime": 49,
       "origin": Object {
         "id": "ZCG",
         "name": "Chigwell",
@@ -11178,7 +11178,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Cockfosters+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 52,
       "origin": Object {
         "id": "ZCK",
         "name": "Cockfosters",
@@ -11224,7 +11224,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Chesham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 68,
+      "journeyTime": 69,
       "origin": Object {
         "id": "ZCM",
         "name": "Chesham",
@@ -11339,7 +11339,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Caledonian+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZCR",
         "name": "Caledonian Road",
@@ -11362,7 +11362,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Camden+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 20,
+      "journeyTime": 22,
       "origin": Object {
         "id": "ZCT",
         "name": "Camden Town",
@@ -11385,7 +11385,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Covent+Garden+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 19,
+      "journeyTime": 20,
       "origin": Object {
         "id": "ZCV",
         "name": "Covent Garden",
@@ -11408,7 +11408,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Canada+Water+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 17,
       "origin": Object {
         "id": "ZCW",
         "name": "Canada Water",
@@ -11570,7 +11570,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Devons+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 28,
       "origin": Object {
         "id": "ZDR",
         "name": "Devons Road",
@@ -11593,7 +11593,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=East+Acton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "ZEA",
         "name": "East Acton",
@@ -11616,7 +11616,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ealing+Common+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 40,
+      "journeyTime": 41,
       "origin": Object {
         "id": "ZEC",
         "name": "Ealing Common",
@@ -11639,7 +11639,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Edgware+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 46,
+      "journeyTime": 48,
       "origin": Object {
         "id": "ZED",
         "name": "Edgware",
@@ -11755,7 +11755,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Embankment+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 14,
+      "journeyTime": 12,
       "origin": Object {
         "id": "ZEK",
         "name": "Embankment",
@@ -11801,7 +11801,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Bermondsey+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 5,
+      "journeyTime": 6,
       "origin": Object {
         "id": "ZEO",
         "name": "Bermondsey",
@@ -11824,7 +11824,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Elm+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 51,
       "origin": Object {
         "id": "ZEP",
         "name": "Elm Park",
@@ -11870,7 +11870,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Euston+Square+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZES",
         "name": "Euston Square",
@@ -11893,7 +11893,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Earls+Court+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "ZET",
         "name": "Earls Court",
@@ -11917,7 +11917,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Fairlop+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "ZFA",
         "name": "Fairlop",
@@ -11940,7 +11940,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Fulham+Broadway+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "ZFB",
         "name": "Fulham Broadway",
@@ -11963,7 +11963,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Finchley+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 35,
+      "journeyTime": 36,
       "origin": Object {
         "id": "ZFC",
         "name": "Finchley Central",
@@ -12032,7 +12032,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Westferry+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 19,
       "origin": Object {
         "id": "ZFW",
         "name": "Westferry",
@@ -12055,7 +12055,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Gants+Hill+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "ZGA",
         "name": "Gants Hill",
@@ -12101,7 +12101,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Green+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 10,
+      "journeyTime": 11,
       "origin": Object {
         "id": "ZGE",
         "name": "Green Park",
@@ -12124,7 +12124,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Golders+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "ZGG",
         "name": "Golders Green",
@@ -12216,7 +12216,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Goodge+Street+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZGS",
         "name": "Goodge Street",
@@ -12308,7 +12308,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hounslow+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 52,
+      "journeyTime": 53,
       "origin": Object {
         "id": "ZHC",
         "name": "Hounslow Central",
@@ -12377,7 +12377,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Highgate+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "ZHG",
         "name": "Highgate",
@@ -12423,7 +12423,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hampstead+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 25,
+      "journeyTime": 27,
       "origin": Object {
         "id": "ZHM",
         "name": "Hampstead",
@@ -12446,7 +12446,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hendon+Central+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "ZHN",
         "name": "Hendon Central",
@@ -12470,7 +12470,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Holborn+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZHO",
         "name": "Holborn",
@@ -12516,7 +12516,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Heron+Quays+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 13,
+      "journeyTime": 14,
       "origin": Object {
         "id": "ZHQ",
         "name": "Heron Quays",
@@ -12539,7 +12539,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Holloway+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 25,
+      "journeyTime": 26,
       "origin": Object {
         "id": "ZHR",
         "name": "Holloway Road",
@@ -12585,7 +12585,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Hainault+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 52,
       "origin": Object {
         "id": "ZHT",
         "name": "Hainault",
@@ -12701,7 +12701,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ickenham+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 59,
+      "journeyTime": 60,
       "origin": Object {
         "id": "ZIC",
         "name": "Ickenham",
@@ -12747,7 +12747,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Kennington+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 8,
+      "journeyTime": 9,
       "origin": Object {
         "id": "ZKE",
         "name": "Kennington",
@@ -12793,7 +12793,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Knightsbridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZKN",
         "name": "Knightsbridge",
@@ -12885,7 +12885,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Leytonstone+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 32,
       "origin": Object {
         "id": "ZLE",
         "name": "Leytonstone",
@@ -13070,7 +13070,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Whitechapel+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 16,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZLW",
         "name": "Whitechapel",
@@ -13093,7 +13093,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Leyton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 30,
       "origin": Object {
         "id": "ZLY",
         "name": "Leyton",
@@ -13162,7 +13162,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Mile+End+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 20,
+      "journeyTime": 21,
       "origin": Object {
         "id": "ZME",
         "name": "Mile End",
@@ -13185,7 +13185,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Mansion+House+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 13,
+      "journeyTime": 12,
       "origin": Object {
         "id": "ZMH",
         "name": "Mansion House",
@@ -13208,7 +13208,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Mill+Hill%20East+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "ZML",
         "name": "Mill Hill East",
@@ -13231,7 +13231,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Monument+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 7,
+      "journeyTime": 5,
       "origin": Object {
         "id": "ZMM",
         "name": "Monument",
@@ -13277,7 +13277,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Moor+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "ZMP",
         "name": "Moor Park",
@@ -13301,7 +13301,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Manor+House+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 32,
       "origin": Object {
         "id": "ZMR",
         "name": "Manor House",
@@ -13348,7 +13348,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Maida+Vale+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 26,
+      "journeyTime": 27,
       "origin": Object {
         "id": "ZMV",
         "name": "Maida Vale",
@@ -13395,7 +13395,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Northwood+Hills+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "ZND",
         "name": "Northwood Hills",
@@ -13441,7 +13441,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Northfields+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 44,
       "origin": Object {
         "id": "ZNF",
         "name": "Northfields",
@@ -13464,7 +13464,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Notting+Hill%20Gate+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZNG",
         "name": "Notting Hill Gate",
@@ -13488,7 +13488,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=North+Harrow+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 44,
+      "journeyTime": 45,
       "origin": Object {
         "id": "ZNH",
         "name": "North Harrow",
@@ -13511,7 +13511,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Northwick+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "ZNK",
         "name": "Northwick Park",
@@ -13534,7 +13534,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Neasden+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 30,
+      "journeyTime": 31,
       "origin": Object {
         "id": "ZNN",
         "name": "Neasden",
@@ -13580,7 +13580,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Newbury+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 39,
+      "journeyTime": 41,
       "origin": Object {
         "id": "ZNP",
         "name": "Newbury Park",
@@ -13626,7 +13626,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Oakwood+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 48,
+      "journeyTime": 49,
       "origin": Object {
         "id": "ZOA",
         "name": "Oakwood",
@@ -13649,7 +13649,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Oxford+Circus+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 18,
+      "journeyTime": 20,
       "origin": Object {
         "id": "ZOC",
         "name": "Oxford Circus",
@@ -13672,7 +13672,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Oval+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 11,
+      "journeyTime": 12,
       "origin": Object {
         "id": "ZOV",
         "name": "Oval",
@@ -13695,7 +13695,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Osterley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 47,
+      "journeyTime": 48,
       "origin": Object {
         "id": "ZOY",
         "name": "Osterley",
@@ -13718,7 +13718,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Putney+Bridge+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "ZPB",
         "name": "Putney Bridge",
@@ -13764,7 +13764,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Prince+Regent+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "ZPD",
         "name": "Prince Regent",
@@ -13787,7 +13787,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Perivale+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "ZPE",
         "name": "Perivale",
@@ -13902,7 +13902,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pudding+Mill%20Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 29,
+      "journeyTime": 30,
       "origin": Object {
         "id": "ZPM",
         "name": "Pudding Mill Lane",
@@ -13949,7 +13949,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Preston+Road+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 35,
       "origin": Object {
         "id": "ZPR",
         "name": "Preston Road",
@@ -14065,7 +14065,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Woodford+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 34,
       "origin": Object {
         "id": "ZQS",
         "name": "South Woodford",
@@ -14134,7 +14134,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Royal+Albert+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 28,
+      "journeyTime": 29,
       "origin": Object {
         "id": "ZRC",
         "name": "Royal Albert",
@@ -14203,7 +14203,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ruislip+Manor+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 50,
+      "journeyTime": 51,
       "origin": Object {
         "id": "ZRM",
         "name": "Ruislip Manor",
@@ -14249,7 +14249,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Russell+Square+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 22,
+      "journeyTime": 24,
       "origin": Object {
         "id": "ZRS",
         "name": "Russell Square",
@@ -14295,7 +14295,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Roding+Valley+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 42,
+      "journeyTime": 43,
       "origin": Object {
         "id": "ZRV",
         "name": "Roding Valley",
@@ -14341,7 +14341,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Southgate+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 45,
+      "journeyTime": 46,
       "origin": Object {
         "id": "ZSA",
         "name": "Southgate",
@@ -14410,7 +14410,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Stamford+Brook+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 41,
+      "journeyTime": 42,
       "origin": Object {
         "id": "ZSF",
         "name": "Stamford Brook",
@@ -14433,7 +14433,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Stepney+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 20,
+      "journeyTime": 21,
       "origin": Object {
         "id": "ZSG",
         "name": "Stepney Green",
@@ -14595,7 +14595,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=South+Quay+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 17,
+      "journeyTime": 18,
       "origin": Object {
         "id": "ZSQ",
         "name": "South Quay",
@@ -14641,7 +14641,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Sudbury+Town+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 49,
+      "journeyTime": 50,
       "origin": Object {
         "id": "ZSY",
         "name": "Sudbury Town",
@@ -14664,7 +14664,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tooting+Bec+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 23,
+      "journeyTime": 24,
       "origin": Object {
         "id": "ZTB",
         "name": "Tooting Bec",
@@ -14733,7 +14733,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Turnpike+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 34,
+      "journeyTime": 36,
       "origin": Object {
         "id": "ZTL",
         "name": "Turnpike Lane",
@@ -14802,7 +14802,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tooting+Broadway+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 28,
       "origin": Object {
         "id": "ZTO",
         "name": "Tooting Broadway",
@@ -14825,7 +14825,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Tufnell+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 24,
+      "journeyTime": 25,
       "origin": Object {
         "id": "ZTP",
         "name": "Tufnell Park",
@@ -14848,7 +14848,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Turnham+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 43,
+      "journeyTime": 44,
       "origin": Object {
         "id": "ZTU",
         "name": "Turnham Green",
@@ -14894,7 +14894,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Theydon+Bois+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 51,
+      "journeyTime": 52,
       "origin": Object {
         "id": "ZTY",
         "name": "Theydon Bois",
@@ -14940,7 +14940,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Upton+Park+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 27,
+      "journeyTime": 28,
       "origin": Object {
         "id": "ZUP",
         "name": "Upton Park",
@@ -15032,7 +15032,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wood+Green+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 36,
+      "journeyTime": 37,
       "origin": Object {
         "id": "ZWD",
         "name": "Wood Green",
@@ -15055,7 +15055,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=West+Acton+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 37,
+      "journeyTime": 38,
       "origin": Object {
         "id": "ZWE",
         "name": "West Acton",
@@ -15174,7 +15174,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wanstead+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 33,
+      "journeyTime": 35,
       "origin": Object {
         "id": "ZWN",
         "name": "Wanstead",
@@ -15220,7 +15220,7 @@ Object {
     },
     Object {
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=Wood+Lane+Station,London&destination=London+Bridge+Station,London&travelmode=transit",
-      "journeyTime": 32,
+      "journeyTime": 33,
       "origin": Object {
         "id": "ZWQ",
         "name": "Wood Lane",
